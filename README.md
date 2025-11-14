@@ -77,3 +77,7 @@ Copy code
 
 Say **“done”** when saved.
 ::contentReference[oaicite:0]{index=0}
+
+
+---
+This project is a lightweight demonstration of PR insight workflows and can be extended into a full PR intelligence system.
