@@ -32,7 +32,7 @@ Invoke-RestMethod -Uri http://127.0.0.1:9000/review -Method Post -ContentType 'a
 Interactive API Docs:
 http://127.0.0.1:9000/docs
 
-📂 Demo Suite
+-> Demo Suite
 Inside demo/ you’ll find realistic PR scenarios:
 
 sample_small_change.json
@@ -47,7 +47,7 @@ sample_security_fix.json
 
 These provide multi-scenario coverage for quick evaluation.
 
-📌 Scope of This MVP
+-> Scope of This MVP
 FastAPI endpoint for PR analysis
 
 Lightweight heuristics for summarization and risk scoring
@@ -58,7 +58,7 @@ One-command local demo flow
 
 Clean, review-friendly structure
 
-🔮 Future Upgrade Paths
+-> Future Upgrade Paths
 ML risk prediction (LightGBM or transformers)
 
 GitHub webhook ingestion
@@ -69,7 +69,7 @@ SHAP-based explainability
 
 Reviewer recommendation engine
 
-📄 License
+-> License
 MIT License.
 
 perl
