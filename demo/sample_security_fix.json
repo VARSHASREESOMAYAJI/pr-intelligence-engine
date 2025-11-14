@@ -1,0 +1,6 @@
+{
+  "title": "Patch authentication bypass issue",
+  "body": "Fixed a critical path where unauthenticated access was allowed.",
+  "diff": "++++++++++++++--------",
+  "comments": 7
+}

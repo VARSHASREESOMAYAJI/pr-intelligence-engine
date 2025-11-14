@@ -1,0 +1,6 @@
+{
+  "title": "Rewrite payments module",
+  "body": "Major refactor. Introduced new billing flow and added payment retries.",
+  "diff": "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++---------------------------------------------",
+  "comments": 12
+}

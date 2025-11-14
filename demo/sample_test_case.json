@@ -1,0 +1,6 @@
+{
+  "title": "Add unit tests for user service",
+  "body": "Added missing tests for edge case scenarios.",
+  "diff": "++++++++++++",
+  "comments": 1
+}
